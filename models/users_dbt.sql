@@ -1,0 +1,1 @@
+select * from DB_ECOM.SC_ECOMM.ORDERS

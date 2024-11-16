@@ -1,1 +1,3 @@
-select * from DB_ECOM.SC_ECOMM.ORDERS
+
+
+select * from {{ source("tejaswini_source","ORDERS") }}

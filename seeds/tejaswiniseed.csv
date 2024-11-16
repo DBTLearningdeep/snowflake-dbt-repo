@@ -1,0 +1,5 @@
+row_id,order_id,order_date,ship_date,ship_mode,customer_id,customer_name
+1,103,26-11-1996,11-11-2020,Fourth Class,CG-12520,Tejaswini Ravikumar
+2,102,08-11-2020,11-11-2020,Second Class,CG-12520, Usha
+3,100,10-04-2022,16-06-2020,First Class,DV-13045, Raghav
+4,007,24-10-1992,114-12-1992, Third Class,001,Anu

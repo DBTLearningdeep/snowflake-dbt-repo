@@ -1,0 +1,4 @@
+row_id,order_id,order_date,ship_date,ship_mode,customer_id,customer_name
+1,CA-2020-152156,08-11-2020,11-11-2020,Second Class,CG-12520,Claire Gute
+2,CA-2020-152156,08-11-2020,11-11-2020,Second Class,CG-12520,Claire Gute
+3,CA-2020-138688,12-06-2020,16-06-2020,Second Class,DV-13045,Darrin Van Huff

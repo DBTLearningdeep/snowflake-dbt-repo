@@ -3,3 +3,5 @@
 select * from DB_ECOM.SC_ECOMM.ORDERS
 UNION ALL
 select * from DB_ECOM.SC_ECOMM.ORDERS
+
+

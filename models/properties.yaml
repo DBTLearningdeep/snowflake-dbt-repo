@@ -1,0 +1,27 @@
+sources:
+  - name: "tejaswini_source"
+    database: DB_ECOM
+    schema: SC_ECOMM
+    tables:
+      - name: ORDERS
+
+
+
+models:
+  - name: "tejaswini3"
+    config:
+      
+      materialized: 'table'
+  - name: "user_dbt"
+    config:
+      materialized: 'view'    
+  - name: "users_v3"
+    config:
+      materialized: 'table'
+  - name: "users_v2"
+    config:
+      materialized: 'table'    
+  - name: "customer_v4"
+    config:
+      materilized: 'ephemeral'    
+
